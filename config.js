@@ -11,5 +11,5 @@ window.SMILETOMORROW_CONFIG = {
   // (visit yoursite.com/#/admin). This is NOT real security — anyone who
   // reads this file can see it. It just keeps the review queue from being
   // stumbled into by accident. See README for a hardened alternative.
-  ADMIN_PASSCODE: "changeme123",
+  ADMIN_PASSCODE: Scarlett@954500
 };
